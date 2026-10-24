@@ -32,7 +32,7 @@
   <a href="https://discord.com/users/TU-ID-DISCORD"><img alt="Discord (opcional)" src="https://img.shields.io/badge/Discord-opcional-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-## Hola, soy TU-NOMBRE 👋
+## Hola, soy Slendy Moreno 👋
 <!-- ✏️ EDITA: escribe tu nombre real. -->
 
 > 📌 **Aviso:** estoy buscando mi primera oportunidad (práctica o empleo junior). Si tienes una vacante, ¡escríbeme!
@@ -101,11 +101,11 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 
 <!-- ✏️ EDITA: cambia TU-USUARIO. Son servicios EXTERNOS gratuitos: pueden tardar, fallar o cambiar su URL. Si se rompen, bórralos. -->
 <p align="center">
-  <img alt="Estadísticas de GitHub de TU-USUARIO" height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true">
-  <img alt="Lenguajes más usados de TU-USUARIO" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true">
+  <img alt="Estadísticas de GitHub de slendymorenoduran-maker" height="170" src="https://github-readme-stats.vercel.app/api?username=slendymorenoduran-maker&show_icons=true&theme=tokyonight&hide_border=true">
+  <img alt="Lenguajes más usados de slendymorenoduran-maker" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slendymorenoduran-maker&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 <p align="center">
-  <img alt="Racha de contribuciones de TU-USUARIO" src="https://streak-stats.demolab.com/?user=TU-USUARIO&theme=tokyonight&hide_border=true">
+  <img alt="Racha de contribuciones de slendymorenoduran-maker" src="https://streak-stats.demolab.com/?user=slendymorenoduran-maker&theme=tokyonight&hide_border=true">
 </p>
 
 > ⚠️ Estas tarjetas dependen de servicios de terceros (github-readme-stats y streak-stats). Pueden fallar, cambiar de dirección o mostrar datos con retraso.
@@ -126,8 +126,8 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 |-------|--------|
 | 🌐 Portafolio | [TU-PORTAFOLIO.com](https://TU-PORTAFOLIO.com) |
 | 💼 LinkedIn | [linkedin.com/in/TU-USUARIO-LINKEDIN](https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/) |
-| ✉️ Correo | [tu@correo.com](mailto:tu@correo.com) |
-| 💬 WhatsApp | [Escríbeme](https://wa.me/57TU-NUMERO) |
+| ✉️ Correo | [tu@correo.com](mailto:slendymorenoduran@gmail.com) |
+| 💬 WhatsApp | [Escríbeme](https://wa.me/573228975075) |
 | 📄 Hoja de vida | _Sube tu PDF a `assets/` y enlázalo aquí (ver comentario)_ |
 
 <!-- ✏️ EDITA: sube tu PDF a assets/ y cambia la fila de hoja de vida por: [Descargar PDF](assets/CV-Nombre-Apellido.pdf)  (ver GUIA.md, sección 5). -->
