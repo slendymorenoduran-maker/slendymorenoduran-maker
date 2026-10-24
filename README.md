@@ -27,7 +27,7 @@
   <a href="https://github.com/slendymorenoduran-maker?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/slendymorenoduran-maker?style=for-the-badge&logo=github&label=Seguidores"></a>
   <a href="https://github.com/slendymorenoduran-maker?tab=repositories"><img alt="Estrellas" src="https://img.shields.io/github/stars/slendymorenoduran-maker?style=for-the-badge&logo=github&label=Estrellas"></a>
   <img alt="Visitas al perfil" src="https://komarev.com/ghpvc/?username=TU-USUARIO&style=for-the-badge&label=Visitas">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/[TU-USUARIO-LINKEDIN/](https://www.linkedin.com/in/slendy-moreno-99a844446/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.npmjs.com/~TU-USUARIO"><img alt="NPM (opcional)" src="https://img.shields.io/badge/npm-opcional-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
   <a href="https://discord.com/users/TU-ID-DISCORD"><img alt="Discord (opcional)" src="https://img.shields.io/badge/Discord-opcional-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
