@@ -16,7 +16,7 @@
      Si solo tienes una imagen, usa únicamente la etiqueta <img> y borra el <picture>. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.jpg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-claro.svg">
     <img alt="Banner de Slendy Moreno: desarrollador de software" src="assets/banner.svg" width="100%">
   </picture>
