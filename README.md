@@ -126,15 +126,9 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 |-------|--------|
 | 🌐 Portafolio | [TU-PORTAFOLIO.com](https://TU-PORTAFOLIO.com) |
 | 💼 LinkedIn | [linkedin.com/in/TU-USUARIO-LINKEDIN](https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/) |
-| ✉️ Correo | [tu@correo.com](mailto:slendymorenoduran@gmail.com) |
-| 💬 WhatsApp | [Escríbeme](https://wa.me/573228975075) |
+| ✉️ Correo | [slendymorenoduran@gmail.com](mailto:slendymorenoduran@gmail.com) |
+| 💬 WhatsApp | [3228975075](https://wa.me/573228975075) |
 | 📄 Hoja de vida | _Sube tu PDF a `assets/` y enlázalo aquí (ver comentario)_ |
 
 <!-- ✏️ EDITA: sube tu PDF a assets/ y cambia la fila de hoja de vida por: [Descargar PDF](assets/CV-Nombre-Apellido.pdf)  (ver GUIA.md, sección 5). -->
 
----
-
-<p align="center">
-  Gracias por visitar mi perfil 💚<br>
-  <sub>¿Te sirvió esta plantilla? Dale una ⭐ y compártela con tus compañeros del SENA.</sub>
-</p>
