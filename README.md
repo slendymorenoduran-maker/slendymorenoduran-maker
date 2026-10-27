@@ -9,13 +9,13 @@
 -->
 
 <h1 align="center">Bienvenidos a mi Portafolio</h1>
-<h3 align="center">Desarrollador de software junior · Aprendiz SENA ADSO</h3>
+<h3 align="center">Desarrolladora de software junior · Aprendiz SENA ADSO</h3>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner.jpg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-claro.svg">
-    <img alt="Banner de Slendy Moreno: desarrollador de software" src="assets/banner.svg" width="100%">
+    <img alt="Banner de Slendy Moreno: desarrolladora de software" src="assets/banner.svg" width="100%">
   </picture>
 </p>
 
@@ -63,8 +63,8 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 
 ## 🗺 Mapa de proyectos
 
-### 🌐 Proyectos Colaborativos y Destacados
-- **Final-Access** — Proyecto colaborativo en desarrollo activo. [Repo](https://github.com/JoseRuiz15/Final-Access)
+### 🎮 Videojuegos y Proyectos Destacados
+- **Final-Access** — Videojuego 2D en pixel art en desarrollo colaborativo. [Repo](https://github.com/JoseRuiz15/Final-Access)
 
 > ★ = proyecto en desarrollo activo.
 
@@ -84,7 +84,7 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 
 | Repositorio | Descripción | Rol |
 |-------------|-------------|-----|
-| [Final-Access](https://github.com/JoseRuiz15/Final-Access) | Proyecto en desarrollo colaborativo | Colaborador / Desarrollador |
+| [Final-Access](https://github.com/JoseRuiz15/Final-Access) | Videojuego 2D en pixel art en desarrollo colaborativo | Co-desarrolladora / Colaboradora |
 
 ## 📫 Contáctame
 
