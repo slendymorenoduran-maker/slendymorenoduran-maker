@@ -28,7 +28,7 @@
 
 ## Hola, soy Slendy Moreno 👋
 
-> 📌 **Aviso:** Estoy buscando mi primera oportunidad (práctica o empleo junior). Si tienes una vacante, ¡escríbeme!
+> 📌 **Aviso:** estoy buscando mi primera oportunidad (práctica o empleo junior). Si tienes una vacante, ¡escríbeme!
 
 ## 🚀 Sobre mí
 
@@ -41,8 +41,8 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 <br>
 
 - 🎓 Estudiando: Tecnólogo en Análisis y Desarrollo de Software (SENA, jornada noche)
-- 🌱 Aprendiendo ahora: Desarrollo Web Full Stack y Arquitectura de Software
-- 🤝 Pregúntame sobre: HTML, CSS, JavaScript, Git y lógica de programación
+- 🌱 Aprendiendo ahora: React, Node.js, Git & GitHub
+- 🤝 Pregúntame sobre: HTML, CSS, JavaScript y desarrollo de software
 - 🗣️ Idiomas: Español (nativo)
 
 </details>
@@ -63,21 +63,10 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 
 ## 🗺 Mapa de proyectos
 
-### 🌐 Aplicaciones web
-- **Final Access** ⚡ *(En desarrollo activo)* — Proyecto colaborativo de sistema de gestión y control de acceso. Desarrollado en equipo junto a [@JoseRuiz15](https://github.com/JoseRuiz15). [Repo](https://github.com/JoseRuiz15/Final-Access)
-- **Proyecto Uno** — Tienda en línea de ejemplo con carrito de compras. [Repo](https://github.com/slendymorenoduran-maker/proyecto-uno) · [Demo](https://slendymorenoduran-maker.github.io/proyecto-uno)
-- **Proyecto Dos** — Gestor de tareas con login y base de datos. [Repo](https://github.com/slendymorenoduran-maker/proyecto-dos)
+### 🌐 Proyectos Colaborativos y Destacados
+- **Final-Access** — Proyecto colaborativo en desarrollo activo. [Repo](https://github.com/JoseRuiz15/Final-Access)
 
-### 🎨 Frontend y diseño
-- **Mi Portafolio** — Sitio personal responsive. [Repo](https://github.com/slendymorenoduran-maker/slendymorenoduran-maker.github.io)
-
-<p align="center">
-  <a href="https://github.com/JoseRuiz15/Final-Access">
-    <img src="assets/captura-ejemplo.svg" alt="Captura de pantalla de Final Access" width="480">
-  </a>
-  <br>
-  <sub>Captura del proyecto colaborativo Final Access</sub>
-</p>
+> ★ = proyecto en desarrollo activo.
 
 ## 📊 Actividad y estadísticas
 
@@ -93,16 +82,15 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 
 ## 🌟 Repositorios destacados
 
-| Repositorio | Descripción | Tecnologías |
-|-------------|-------------|-------------|
-| [Final-Access](https://github.com/JoseRuiz15/Final-Access) | Sistema de control de acceso (Proyecto colaborativo) | JavaScript, HTML, CSS, Node.js |
-| [proyecto-uno](https://github.com/slendymorenoduran-maker/proyecto-uno) | Tienda en línea de ejemplo | HTML, CSS, JS |
-| [proyecto-dos](https://github.com/slendymorenoduran-maker/proyecto-dos) | Gestor de tareas con login | Node.js, PostgreSQL |
+| Repositorio | Descripción | Rol |
+|-------------|-------------|-----|
+| [Final-Access](https://github.com/JoseRuiz15/Final-Access) | Proyecto en desarrollo colaborativo | Colaborador / Desarrollador |
 
 ## 📫 Contáctame
 
 | Medio | Enlace |
 |-------|--------|
-| 💼 LinkedIn | [linkedin.com/in/slendy-moreno](https://www.linkedin.com/in/slendy-moreno-99a844446/) |
+| 💼 LinkedIn | [linkedin.com/in/slendy-moreno-99a844446/](https://www.linkedin.com/in/slendy-moreno-99a844446/) |
 | ✉️ Correo | [slendymorenoduran@gmail.com](mailto:slendymorenoduran@gmail.com) |
-| 💬 WhatsApp | [+57 322 897 5075](https://wa.me/573228975075) |
+| 💬 WhatsApp | [3228975075](https://wa.me/573228975075) |
+| 📄 Hoja de vida | _Sube tu PDF a `assets/` y enlázalo aquí_ |
